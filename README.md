@@ -19,3 +19,18 @@ To turn raw transactional data into meaningful insights using Excel — helping 
 -	Relationship Between Order Quantity & Delivery Time
 -	Revenue Comparison Across Occasions
 -	Product Popularity by Occasion
+-	Dashboard Interaction <a href="https://github.com/Raghunath-analytics/Data-Analysis-Dashboard-/blob/main/Dashboard.png">View Dashboard</a>
+
+## 🛠️ Process
+
+- Data Collection: Imported raw sales data into Excel.
+- Data Pre-processing: Structured and formatted the data for analysis.
+- Data Cleaning: Handled missing values, corrected errors, and standardized entries.
+- Data Analysis: Used pivot tables, formulas, and slicers to explore patterns.
+- Data Visualization: Created interactive dashboards to present key insights.
+
+## Dashboard
+
+![Dashboard](https://github.com/user-attachments/assets/6ac936d9-fc1b-4e23-adc3-69f6eebf501b)
+
+  
