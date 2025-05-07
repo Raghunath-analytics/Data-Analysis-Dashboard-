@@ -9,13 +9,13 @@ To turn raw transactional data into meaningful insights using Excel — helping 
 
 ## 🔍 Questions (KPIs)
 
-•	Total Revenue Generated
-•	Average Order and Delivery Time
-•	Monthly Sales Performance
-•	Top Products by Revenue
-•	Customer Spending Behaviour
-•	Sales Performance of Top 5 Products
-•	Top 10 Cities by Number of Orders
-•	Relationship Between Order Quantity & Delivery Time
-•	Revenue Comparison Across Occasions
-•	Product Popularity by Occasion
+-	Total Revenue Generated
+-	Average Order and Delivery Time
+-	Monthly Sales Performance
+-	Top Products by Revenue
+-	Customer Spending Behaviour
+-	Sales Performance of Top 5 Products
+-	Top 10 Cities by Number of Orders
+-	Relationship Between Order Quantity & Delivery Time
+-	Revenue Comparison Across Occasions
+-	Product Popularity by Occasion
