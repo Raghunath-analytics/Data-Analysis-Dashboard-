@@ -1,10 +1,10 @@
-# F&P Company Sales Analysis Dashboard (2023) 📊
+# FnP Company Sales Analysis Dashboard (2023) 📊
 
 ## 🎯 Project Objective
 This Excel dashboard project analyses F&P Company’s sales data from 2023 to evaluate key business queries related to performance, customer behaviour, and product trends.
 To turn raw transactional data into meaningful insights using Excel — helping business teams make data-driven decisions across products, locations, and time.
 
-## Dataset used
+## 🗂️ Dataset used
 - <a href="https://github.com/Raghunath-analytics/Data-Analysis-Dashboard-/blob/main/F%26P_Sales_%20Dashboard.xlsx">Dataset</a>
 
 ## 🔍 Questions (KPIs)
@@ -28,7 +28,7 @@ To turn raw transactional data into meaningful insights using Excel — helping 
 - **Custom number formatting** for clarity and visual polish
 - **Conditional formatting** to highlight key trends
 
-## 🛠️ Process
+## 🔷 Process
 
 - Data Collection: Imported raw sales data into Excel.
 - Data Pre-processing: Structured and formatted the data for analysis.
@@ -43,12 +43,12 @@ To turn raw transactional data into meaningful insights using Excel — helping 
 
 ## 💡 Project Insights
 
-- August recorded the highest revenue, indicating a seasonal sales peak.
-- ‘Accusantium Set’ was the top-performing product by revenue.
-- Imphal had the highest number of orders among all cities.
-- Customers showed consistent spending patterns, with average order values helping identify key segments.
-- Delivery times were slightly longer for bulk orders, showing a correlation between quantity and fulfillment time.
-- Specific occasions significantly influenced revenue spikes and product preferences.
+- **August** recorded the highest revenue, indicating a seasonal sales peak.
+- **‘Accusantium Set’** was the top-performing product by revenue.
+- **Imphal** had the highest number of orders among all cities.
+- **Customers** showed consistent spending patterns, with average order values helping identify key segments.
+- **Delivery times** were slightly longer for bulk orders, showing a correlation between quantity and fulfillment time.
+- Specific **occasions** significantly influenced revenue spikes and product preferences.
 
 ## ✅ Final Conclusion
 
