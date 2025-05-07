@@ -6,3 +6,16 @@ To turn raw transactional data into meaningful insights using Excel — helping 
 
 ## Dataset used
 - <a href="https://github.com/Raghunath-analytics/Data-Analysis-Dashboard-/blob/main/F%26P_Sales_%20Dashboard.xlsx">Dataset</a>
+
+## 🔍 Questions (KPIs)
+
+•	Total Revenue Generated
+•	Average Order and Delivery Time
+•	Monthly Sales Performance
+•	Top Products by Revenue
+•	Customer Spending Behaviour
+•	Sales Performance of Top 5 Products
+•	Top 10 Cities by Number of Orders
+•	Relationship Between Order Quantity & Delivery Time
+•	Revenue Comparison Across Occasions
+•	Product Popularity by Occasion
