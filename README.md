@@ -36,12 +36,12 @@ To turn raw transactional data into meaningful insights using Excel — helping 
 - Data Analysis: Used pivot tables, formulas, and slicers to explore patterns.
 - Data Visualization: Created interactive dashboards to present key insights.
 
-- ## Dashboard
+ ## 📊 Dashboard
 
 ![Dashboard](https://github.com/user-attachments/assets/6ac936d9-fc1b-4e23-adc3-69f6eebf501b)
 
 
-## 📊 Project Insights
+## 💡 Project Insights
 
 - August recorded the highest revenue, indicating a seasonal sales peak.
 - ‘Accusantium Set’ was the top-performing product by revenue.
